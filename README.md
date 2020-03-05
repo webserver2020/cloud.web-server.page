@@ -1,2 +1,1 @@
-# cloud.web-server.page
-cloud.web-server.page
+# www.web-server.page
